@@ -3,134 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.woodenmonster.com/project/project1/</loc>
+    <loc>/project/project1/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/project/project2/</loc>
+    <loc>/project/project2/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/project/project3/</loc>
+    <loc>/project/project3/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/project/project4/</loc>
+    <loc>/project/project4/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/post/creating-a-new-theme/</loc>
+    <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/</loc>
+    <loc>/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/post/goisforlovers/</loc>
+    <loc>/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/post/hugoisforlovers/</loc>
+    <loc>/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/template/</loc>
+    <loc>/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/jekyll/</loc>
+    <loc>/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/post/migrate-from-jekyll/</loc>
+    <loc>/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/static-site-generator/</loc>
+    <loc>/tags/static-site-generator/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/bootstrap/</loc>
+    <loc>/tags/bootstrap/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/css/</loc>
+    <loc>/tags/css/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/highlight-js/</loc>
+    <loc>/tags/highlight-js/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/html/</loc>
+    <loc>/tags/html/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/js/</loc>
+    <loc>/tags/js/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/project/</loc>
+    <loc>/project/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/responsive/</loc>
+    <loc>/tags/responsive/</loc>
   </url>
   
   <url>
-    <loc>http://blog.woodenmonster.com/tags/syntax-highlighting/</loc>
+    <loc>/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
