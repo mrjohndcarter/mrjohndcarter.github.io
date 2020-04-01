@@ -6,13 +6,26 @@
     <description>Recent content in Posts on The Distributive Property</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
+      <title>Tools I use for focussed work</title>
+      <link>/post/toolsforfocus/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/toolsforfocus/</guid>
+      <description>Focus Lately, I&amp;rsquo;ve been reading a lot around the topics of focus, attention and concentration. Two recommendations:
+Deep Work: Rules for Focused Success in a Distracted WorldStep 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme -- delete</title>
       <link>/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
