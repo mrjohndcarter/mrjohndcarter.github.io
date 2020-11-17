@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>blog.woodenmonster.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.woodenmonster.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.woodenmonster.com/tags/focus/</loc>
+    <loc>/tags/focus/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.woodenmonster.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.woodenmonster.com/tags/productivity/</loc>
+    <loc>/tags/productivity/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.woodenmonster.com/posts/toolsforfocus/</loc>
+    <loc>/posts/toolsforfocus/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.woodenmonster.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>blog.woodenmonster.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
