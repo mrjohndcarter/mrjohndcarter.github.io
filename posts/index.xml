@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Distributive Property</title>
-    <link>blog.woodenmonster.com/</link>
-    <description>Recent content on The Distributive Property</description>
+    <title>Posts on The Distributive Property</title>
+    <link>blog.woodenmonster.com/posts/</link>
+    <description>Recent content in Posts on The Distributive Property</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 John Carter</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="blog.woodenmonster.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.woodenmonster.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>blog.woodenmonster.com/about/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>blog.woodenmonster.com/about/</guid>
-      <description> Writing is nature&amp;rsquo;s way of letting you know how sloppy your thinking is.
- Dick Guindon (discovered via &amp;ldquo;Why We Should Build Software Like We Build Houses&amp;rdquo;)   </description>
-    </item>
     
     <item>
       <title>Some tools I use for focussed work</title>

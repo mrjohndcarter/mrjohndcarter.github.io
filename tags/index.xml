@@ -2,120 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Distributive Property</title>
-    <link>/tags/</link>
+    <link>blog.woodenmonster.com/tags/</link>
     <description>Recent content in Tags on The Distributive Property</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2020 John Carter</copyright>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.woodenmonster.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>focus</title>
-      <link>/tags/focus/</link>
+      <link>blog.woodenmonster.com/tags/focus/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/focus/</guid>
+      <guid>blog.woodenmonster.com/tags/focus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>productivity</title>
-      <link>/tags/productivity/</link>
+      <link>blog.woodenmonster.com/tags/productivity/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bootstrap</title>
-      <link>/tags/bootstrap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>/tags/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>/tags/go/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>/tags/golang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>highlight-js</title>
-      <link>/tags/highlight-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/highlight-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>js</title>
-      <link>/tags/js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>responsive</title>
-      <link>/tags/responsive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax-highlighting</title>
-      <link>/tags/syntax-highlighting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/syntax-highlighting/</guid>
+      <guid>blog.woodenmonster.com/tags/productivity/</guid>
       <description></description>
     </item>
     

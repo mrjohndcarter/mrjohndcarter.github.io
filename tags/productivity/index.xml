@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>productivity on The Distributive Property</title>
-    <link>/tags/productivity/</link>
+    <link>blog.woodenmonster.com/tags/productivity/</link>
     <description>Recent content in productivity on The Distributive Property</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2020 John Carter</copyright>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.woodenmonster.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Some tools I use for focussed work</title>
-      <link>/post/toolsforfocus/</link>
+      <link>blog.woodenmonster.com/posts/toolsforfocus/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/toolsforfocus/</guid>
+      <guid>blog.woodenmonster.com/posts/toolsforfocus/</guid>
       <description>Before Covid-19 happened, I was reading a lot around the topics of focus, attention and, concentration. With so many working from home and adjusting to a home office in a house full of people, I thought it timely to post a list of stuff I&amp;rsquo;ve been using over the past years. Currently, I depend on the following to stay productive.
 Wall of Noise In an open office environment, or working from a home with family in it, I need to put something between myself and potential distractions.</description>
     </item>
